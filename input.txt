@@ -7,18 +7,3 @@ new@gmail.com
 12345
 my_first_name
 my_last_name
-
-
-
-date --> (1) YYYY-mm-dd HH:MM:SS
-product --> 
-    - (2) product_type (eg : Tickets, Guided Tours)
-    - (3) product_name (eg : Brunelleschi's Dome, Cathedral, Museum, Baptistery)
-no of tickets --> (4) no_of_adult no_of_paid_child
-create_new_account --> (5) bool
-credentials --> 
-    - (6) email
-    - (7) password
-    (only if create_new_account)
-    - (8) uname_first
-    - (9) uname_last
